@@ -1,4 +1,4 @@
-# Olá, eu sou o João Guilherme Pires de Andrade! 👋
+# Olá, eu sou o João Guilherme Pires de Andrade!
 
 🎓 Estudante de Inteligência Artificial na Universidade Federal de Goiás | 2º Período  
 🚀 Entusiasta em Machine Learning e Redes Neurais
