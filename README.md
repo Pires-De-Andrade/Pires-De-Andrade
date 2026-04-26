@@ -1,35 +1,40 @@
-# Olá, eu sou o João Guilherme Pires de Andrade!
+# João Guilherme Pires de Andrade
 
-🎓 Estudante de Inteligência Artificial na Universidade Federal de Goiás | 2º Período  
-🚀 Entusiasta em Machine Learning e Redes Neurais
+**Researcher · Bio-AI · CEIA**
 
-## Sobre Mim
+---
 
-- 🔭 Atualmente trabalhando em: Projetos de visão computacional e aprendizado de máquina
-- 🌱 Aprendendo: Python, C, C++, OpenCV, Redes Neurais, Transformers
-- 👯 Procuro colaborar em: Projetos inovadores de IA aplicada
-- 🤔 Procuro ajuda com: Deep Learning e técnicas avançadas de CV
-- 💬 Pergunte-me sobre: Python, processamento de imagens, projetos iniciantes em IA
-- 📫 Como me encontrar: joaog.pa14@gmail.com
+## About
 
-## 🛠️ Tecnologias & Ferramentas
+I'm an AI researcher at the Center of Excellence in Artificial Intelligence (CEIA) and undergraduate student at the Federal University of Goiás (UFG),
+working at the intersection of deep learning and complex systems. I'm interested in
+problems where machine learning meets high-dimensional, structured complexity — from
+molecular representation to language, from biological networks to physical phenomena.
+My work spans graph neural networks, protein language models, and heterogeneous data
+integration, always with an eye toward outputs that are not just accurate, but interpretable
+by domain experts.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
-![SckitLearn](https://img.shields.io/badge/SckitLearn-FF6F00?style=for-the-badge&logo=sckit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## Research interests
 
-## 📊 Estatísticas do GitHub
+Graph neural networks · protein language models · biological sequence representation ·
+heterogeneous graph transformers · interpretable AI · computational immunology ·
+AI-assisted clinical decision making
 
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pires-De-Andrade&show_icons=true&theme=radical)
+## Stack
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pires-De-Andrade&layout=compact&theme=radical)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyTorch Geometric](https://img.shields.io/badge/PyG-3C2179?style=flat-square&logo=pyg&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+## GitHub stats
 
-## 🌐 Conecte-se Comigo
+![Stats](https://github-readme-stats.vercel.app/api?username=Pires-De-Andrade&show_icons=true&theme=default&hide_border=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-guilherme-pires-de-andrade-6a6869362)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jg_p.andrade/)
+## Contact
 
+[![Email](https://img.shields.io/badge/Email-joaog.pa14@gmail.com-blue?style=flat-square&logo=gmail)](mailto:joaog.pa14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-guilherme-pires-de-andrade-6a6869362)
