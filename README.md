@@ -1,6 +1,6 @@
 # João Guilherme Pires de Andrade
 
-**Researcher · Bio-AI · CEIA**
+**Researcher · CEIA**
 
 ---
 
@@ -29,10 +29,6 @@ AI-assisted clinical decision making
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-## GitHub stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Pires-De-Andrade&show_icons=true&theme=default&hide_border=true)
 
 ## Contact
 
