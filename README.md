@@ -1,8 +1,5 @@
 # João Guilherme Pires de Andrade
-
 **Researcher · CEIA**
-
----
 
 ## About
 
