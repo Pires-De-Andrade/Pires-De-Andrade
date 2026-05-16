@@ -1,5 +1,5 @@
 # João Guilherme Pires de Andrade
-**Researcher · CEIA**
+**Researcher
 
 ## About
 
@@ -16,18 +16,3 @@ by domain experts.
 Graph neural networks · protein language models · biological sequence representation ·
 heterogeneous graph transformers · interpretable AI · computational immunology ·
 AI-assisted clinical decision making
-
-## Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PyTorch Geometric](https://img.shields.io/badge/PyG-3C2179?style=flat-square&logo=pyg&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-joaog.pa14@gmail.com-blue?style=flat-square&logo=gmail)](mailto:joaog.pa14@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-guilherme-pires-de-andrade-6a6869362)
