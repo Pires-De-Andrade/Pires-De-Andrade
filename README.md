@@ -1,5 +1,4 @@
 # João Guilherme Pires de Andrade
-**Researcher**
 
 ## About
 
