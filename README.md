@@ -1,7 +1,3 @@
-# João Guilherme Pires de Andrade
-
-## About
-
 I'm an AI researcher at the Center of Excellence in Artificial Intelligence (CEIA) and undergraduate student at the Federal University of Goiás (UFG),
 working at the intersection of deep learning and complex systems. I'm interested in
 problems where machine learning meets high-dimensional, structured complexity — from
