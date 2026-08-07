@@ -14,10 +14,10 @@ I am an undergraduate in Artificial Intelligence at the Federal University of Go
 
 ## Skills
 
-´ Languages ´: Python · C · SQL · Cypher
+`Languages`: Python · C · SQL · Cypher
 
-´ Machine learning ´: PyTorch · TensorFlow · scikit-learn · classical algorithms · recurrent and graph neural networks
+`Machine learning`: PyTorch · TensorFlow · scikit-learn · classical algorithms · recurrent and graph neural networks
 
-´ NLP ´: LangChain · Qdrant · embeddings · fine-tuning and post-training (LoRA, SFT, DPO) · retrieval evaluation
+`NLP`: LangChain · Qdrant · embeddings · fine-tuning and post-training (LoRA, SFT, DPO) · retrieval evaluation
 
-´ Data ´: pandas · NumPy · Matplotlib · Seaborn
+`Data`: pandas · NumPy · Matplotlib · Seaborn
